@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/jean-marie .b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jean-marie .b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jean-marie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jean-marie" height="30" width="40" /></a>
 <a href="https://instagram.com/jeanmariesno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeanmariesno" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@snokayy6709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="snokayy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@snokayy6709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="snokayy" height="30" width="40" /></a>
 <a href="https://discord.gg/96wMx5MTtY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="96wMx5MTtY" height="30" width="40" /></a>
 </p>
 
