@@ -17,7 +17,6 @@
 - 🌱 I’m currently learning **C++, Lua**
 - 💬 Ask me about **Lua if you have question i will help you if i can**
 - 📫 How to reach me **jm.boeschis@outlook.fr**
-- 👨‍💻 All of my projects are available at **http://141.145.213.140:8081/**
 - ⚡ Fun fact **I broke all the game i play (Good Beta-Test)😋**
 
 <div> <a href="https://twitter.com/snokayy_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
